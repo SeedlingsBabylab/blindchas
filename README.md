@@ -1,10 +1,10 @@
 # blindcha
 
-This is a little script which will read in all the CLAN files in a directory and output blinded versions of those CLAN files to an output directory
+This is a script which will read in all the CLAN files in a directory and output blinded versions of those CLAN files to an output directory
 
 **original**:
 ```
-something &=d_y_MOT
+someword &=d_y_MOT
 ```
 **blinded**
 ```
