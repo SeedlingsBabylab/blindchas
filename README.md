@@ -22,5 +22,5 @@ $ python blindcha.py [input_dir] [output_dir]
 #### make comparison csv file for original vs. blinded versions
 
 ```
-$ python compare.py original.cha new.cha
+$ python compare.py [original.cha] [new.cha]
 ```
