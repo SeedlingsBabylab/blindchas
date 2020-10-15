@@ -15,7 +15,6 @@ def insert_annot(line, annot, orig=False):
 
 
 def process_cha(clan_file):
-    clan_file.flatten()
     clan_file.annotate()
     annots = clan_file.annotations()
     clan_file.clear_annotations()
