@@ -16,7 +16,7 @@ XXXX &=X_X_XXX
 
 #### make the blinded version of a cha file
 ```bash
-$ python blindcha.py [input_dir] [output_dir]
+$ python blind.py [input_dir] [output_dir]
 ```
 
 #### make comparison csv file for original vs. blinded versions
