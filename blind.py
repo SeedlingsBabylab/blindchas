@@ -34,7 +34,7 @@ def blind():
                 clan_file = process_cha(clan_file)
                 clan_file.write_to_cha(os.path.join(
                     out_dir, file.replace(".cha", "")))
-                print file
+                print(file)
 
 
 if __name__ == "__main__":
